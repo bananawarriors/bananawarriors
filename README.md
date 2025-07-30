@@ -6,5 +6,5 @@
 
 
 
-<p align=center> i am a lesminion btw </p>
+<p align=center> ✦ i am a lesminion btw </p>
 <p align=center> <img src="https://github.com/user-attachments/assets/9df59d35-d633-4665-a3c4-e886650ca449" width=250 height=250> </p>
